@@ -1,0 +1,30 @@
+.food-item {
+    width: 288px;
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+}
+
+.food-item-image {
+    object-fit: cover;
+    width: inherit;
+    height: 180px;
+    border-radius: 8px;
+}
+
+.food-item-text {
+    margin: 0 24px;
+    margin-top: 8px;
+}
+
+.food-item-name {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.food-item-button {
+    margin: 0 24px;
+    width: fit-content;
+}

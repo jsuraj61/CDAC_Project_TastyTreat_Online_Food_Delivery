@@ -1,0 +1,190 @@
+2023-03-10 18:13:58,239 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-10 18:17:37,757 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hungerbuzz:hungerbuzz-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\hungerbuzz-backend1\pom.xml.
+2023-03-10 18:18:08,771 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungerbuzz-backend/src/main/java
+2023-03-10 18:18:08,772 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hungerbuzz-backend/src/main/resources
+2023-03-10 18:18:08,773 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hungerbuzz-backend/src/main/resources
+2023-03-10 18:18:08,775 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungerbuzz-backend/src/test/java
+2023-03-10 18:18:09,921 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 40 sec
+2023-03-10 18:18:38,960 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:18:38,960 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:18:38,994 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:18:39,033 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:18:39,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:18:39,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:18:39,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\hungerbuzz-backend1\src\test\resources
+2023-03-10 18:25:51,292 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hungerbuzz:hungerbuzz-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 18:26:02,083 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungerbuzz-backend/src/main/java
+2023-03-10 18:26:02,084 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hungerbuzz-backend/src/main/resources
+2023-03-10 18:26:02,084 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hungerbuzz-backend/src/main/resources
+2023-03-10 18:26:02,085 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hungerbuzz-backend/src/test/java
+2023-03-10 18:26:02,859 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2023-03-10 18:26:08,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:26:08,352 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:26:08,353 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:26:08,396 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:26:08,400 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:26:08,401 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:26:08,401 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:27:03,087 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hungerbuzz:hungerbuzz-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 18:27:09,440 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:27:09,441 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:27:09,441 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:27:09,462 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:27:09,467 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:27:09,467 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:27:09,467 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:27:15,821 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:27:15,822 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:27:15,859 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:27:15,863 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:27:15,868 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:27:15,869 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:27:15,869 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:28:30,736 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:28:30,736 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:28:30,741 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:28:30,794 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:28:30,799 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:28:30,800 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:28:30,800 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:28:50,099 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:28:50,099 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:28:50,100 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:28:50,204 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:28:50,260 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:28:50,260 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:28:50,261 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:29:16,122 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:29:16,122 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:29:16,126 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:29:16,142 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:29:16,149 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:29:16,150 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:29:16,151 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:29:30,747 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:29:30,748 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:29:30,751 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:29:30,763 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:29:30,773 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:29:30,774 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:29:30,774 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:45:56,360 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:45:56,440 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:45:56,442 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:45:56,978 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:45:56,980 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:45:56,980 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:45:56,981 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:47:19,259 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-10 18:47:29,969 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hungerbuzz:hungerbuzz-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 18:47:46,259 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/main/java
+2023-03-10 18:47:46,260 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 18:47:46,262 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 18:47:46,266 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/test/java
+2023-03-10 18:47:50,283 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 31 sec
+2023-03-10 18:48:02,811 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:48:02,822 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:48:02,823 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:48:02,948 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:48:02,952 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:48:02,953 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:48:02,953 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:48:37,439 [Worker-24: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1
+2023-03-10 18:48:37,507 [Worker-24: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2023-03-10 18:49:48,559 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:49:48,560 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:49:48,577 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:49:59,748 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:49:59,752 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:49:59,753 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:49:59,753 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:52:35,133 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:52:35,133 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:52:35,134 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 18:52:36,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:52:36,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:52:36,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:52:36,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 18:54:19,336 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tastytreat:tastytreat-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 18:54:26,647 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:54:26,647 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:54:26,663 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:54:26,663 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 18:54:26,663 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 18:54:26,663 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 18:54:26,663 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 19:30:58,408 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-10 19:31:26,857 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tastytreat:tastytreat-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 19:31:37,419 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/main/java
+2023-03-10 19:31:37,434 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 19:31:37,434 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 19:31:37,434 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/test/java
+2023-03-10 19:31:52,449 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 54 sec
+2023-03-10 19:32:32,036 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:32:32,036 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:32:32,129 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 19:32:32,957 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:32:33,004 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:32:33,004 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:32:33,004 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 19:37:45,674 [Worker-34: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1
+2023-03-10 19:37:45,690 [Worker-34: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2023-03-10 19:38:53,890 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:38:53,890 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:38:53,921 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 19:38:54,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:38:54,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:38:54,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:38:54,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 19:39:49,044 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:39:49,044 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:39:49,044 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:39:49,044 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:39:49,075 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:39:49,075 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:39:49,075 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 19:40:14,487 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-10 19:40:24,306 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tastytreat:tastytreat-backend:0.0.1-SNAPSHOT @ D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\pom.xml.
+2023-03-10 19:40:36,782 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/main/java
+2023-03-10 19:40:36,782 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 19:40:36,782 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tastytreat-backend/src/main/resources
+2023-03-10 19:40:36,782 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tastytreat-backend/src/test/java
+2023-03-10 19:40:37,422 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 22 sec
+2023-03-10 19:40:44,335 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:40:44,335 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:40:44,335 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 19:40:44,398 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:40:44,398 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:40:44,398 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:40:44,413 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 19:40:59,903 [Worker-55: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1
+2023-03-10 19:40:59,903 [Worker-55: Launching Executing install in D__Projects_PROJECT REST - Copy_project_Tastytreat_backend_tastytreat-backend1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2023-03-10 19:42:37,273 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:42:37,273 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:42:37,305 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 19:42:38,289 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 19:42:38,398 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 19:42:38,398 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 19:42:38,398 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 23:02:23,052 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-10 23:06:44,477 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:06:44,479 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:06:44,485 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 23:06:44,618 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 23:06:44,627 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:06:44,628 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:06:44,629 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 23:09:15,463 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:09:15,542 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:09:15,557 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 23:09:15,590 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 23:09:15,595 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:09:15,596 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:09:15,596 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources
+2023-03-10 23:22:28,753 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:22:28,932 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:22:29,021 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-10 23:22:29,294 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-10 23:22:29,317 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-10 23:22:29,317 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-10 23:22:29,415 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\PROJECT REST - Copy\project\Tastytreat\backend\tastytreat-backend1\src\test\resources

@@ -1,0 +1,31 @@
+.food-item-container {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+}
+
+.image-holder {
+    padding: 0px;
+}
+
+.image-size {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.data-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.food-name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.quantity-holder {
+    display: flex;
+    justify-content: space-evenly;
+}

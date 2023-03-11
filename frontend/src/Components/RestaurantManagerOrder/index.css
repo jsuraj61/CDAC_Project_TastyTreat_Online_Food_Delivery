@@ -1,0 +1,10 @@
+.restaurant-manager-order-container {
+    border: lightgray 2px solid;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.restaurant-manager-order-text-header {
+    font-weight: 600;
+}

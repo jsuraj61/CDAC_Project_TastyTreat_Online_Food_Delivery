@@ -1,0 +1,18 @@
+.signin{
+    background-color: lightcoral;
+    
+}
+.markee{
+    color: rgb(26, 212, 212);
+    font-family: "Pacifico", cursive; 
+    /* font-family: Arial, sans-serif; */
+}
+.markee1{
+    color: rgb(231, 25, 42);
+    font-family: "Pacifico", cursive; 
+    /* font-family: Arial, sans-serif; */
+}
+.table{
+    padding-right: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,9 @@
+package com.hungerbuzz.daos;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.hungerbuzz.entities.OrderItem;
+
+public interface OrderItemDao extends JpaRepository<OrderItem, Integer>{
+
+}

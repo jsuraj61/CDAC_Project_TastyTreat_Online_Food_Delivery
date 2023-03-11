@@ -1,0 +1,36 @@
+.logo-container {
+    margin-right: 16px;
+    /* margin-left: 50px; */
+}
+
+.logo {
+    object-fit: contain;
+    height: 80px;
+    width: 100px;
+}
+.footer{
+    margin-top: 1rem;
+    padding: 1.5rem;
+    /* padding-left: 0; */
+    background-color: #1fb690;
+    /* position: fixed; */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-style: normal;
+    color: whitesmoke;
+    text-align: center;
+  }
+
+  .title{
+    color: rgb(216, 32, 176);
+    font-size: 175%;
+    font-style: oblique;
+    font-weight: 700;
+    text-justify: auto;
+    text-align: center;
+    /* font-family: "Pacifico", cursive; */
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: "Georgia", serif;
+
+  }

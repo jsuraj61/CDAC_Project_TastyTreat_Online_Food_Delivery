@@ -1,0 +1,96 @@
+package com.hungerbuzz.services;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.hungerbuzz.daos.OrdersDao;
+import com.hungerbuzz.daos.RestaurantDao;
+import com.hungerbuzz.daos.RestaurantManagerDao;
+import com.hungerbuzz.dtos.Credentials;
+import com.hungerbuzz.dtos.CustomerDto;
+import com.hungerbuzz.dtos.DaoToEntityConverter;
+import com.hungerbuzz.dtos.RestaurantManagerDto;
+import com.hungerbuzz.dtos.RestaurantManagerHomePageDto;
+import com.hungerbuzz.entities.Customer;
+import com.hungerbuzz.entities.OrderItem;
+import com.hungerbuzz.entities.Orders;
+import com.hungerbuzz.entities.Restaurant;
+import com.hungerbuzz.entities.RestaurantManager;
+
+@Service
+public class RestaurantManagerService {
+
+	@Autowired
+	private RestaurantManagerDao restaurantManagerDao;
+	
+	@Autowired
+	private RestaurantDao restaurantDao;
+	
+	@Autowired
+	private OrdersDao ordersDao;
+	
+	public List<RestaurantManager> findAllRestaurantManagers() {
+		return restaurantManagerDao.findAll();
+	}
+	
+	public Optional<RestaurantManager> getRestaurantManagerById(int id)
+	{
+		return restaurantManagerDao.findById(id);
+	}
+	
+	public RestaurantManagerDto getRestaurantManagerDtoById(int id)
+	{
+		Optional<RestaurantManager> rest=getRestaurantManagerById(id);
+		RestaurantManager r =null;
+		try {
+			r=rest.get();
+		}
+		catch(Exception e){
+			r=null;
+			return null;
+		}
+		RestaurantManagerDto restDto=DaoToEntityConverter.RestaurantManagerEntityToDto(r);
+		return restDto;
+		
+	}
+	
+     public boolean saveRestaurantManager(RestaurantManager rest)
+     {
+    	 restaurantManagerDao.save(rest);
+    	 return true;
+     }
+
+     public RestaurantManagerDto findRestaurantManagerByEmailAndPassword(Credentials cred) {
+    	 RestaurantManager rest= restaurantManagerDao.findByEmail(cred.getEmail());
+ 		if(rest == null || !rest.getPassword().equals(cred.getPassword()))
+ 			return null;
+ 		RestaurantManagerDto restaurantManagerDto = DaoToEntityConverter.RestaurantManagerToRestaurantmanagerDto(rest);
+ 		return restaurantManagerDto;
+ 	}
+     
+//     public List<RestaurantManagerHomePageDto> getAllArrivedOrdersFromRestaurant(int restaurantId,String status)
+//     {
+//    	 Restaurant restId=null;
+//		    try {
+//		    	restId=restaurantDao.findById(restaurantId).get();
+//		    }
+//		    catch(Exception e)
+//		    {
+//		    	return null;
+//		    }
+//		    
+//		    List<Orders> orders=ordersDao.findOrdersByRestaurantId(restaurantId, status);
+//		    
+//		    List<RestaurantManagerHomePageDto> restDto= new ArrayList<RestaurantManagerHomePageDto>();
+//		    
+//		  //  orders.forEach(order->restDto.add(DaoToEntityConverter.toRestaurantManagerHomePageDto(order)));
+//		    
+//			return null;
+//     }
+     
+}

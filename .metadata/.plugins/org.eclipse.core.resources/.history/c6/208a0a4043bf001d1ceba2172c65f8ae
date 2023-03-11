@@ -1,0 +1,13 @@
+package com.hungerbuzz;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HungerbuzzBackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HungerbuzzBackendApplication.class, args);
+	}
+	
+
+}
