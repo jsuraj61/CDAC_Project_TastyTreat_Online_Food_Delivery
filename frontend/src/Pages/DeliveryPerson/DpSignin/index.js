@@ -28,7 +28,7 @@ const DeliveryPersonSignIn = () => {
 
 
                 if(result.status === "SUCCESS") {
-                    toast.success("Welcome to HungerBuzz")
+                    toast.success("Welcome to Tasty-Treat")
                     const {id,name,email} = result.data;
                     sessionStorage['id'] = id;
                     sessionStorage['name'] = name;

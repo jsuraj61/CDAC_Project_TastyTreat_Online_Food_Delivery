@@ -26,7 +26,7 @@ const ManagerSignIn = () => {
                 const result = response.data
 
                 if(result.status === "SUCCESS") {
-                    toast.success("Welcome to HungerBuzz")
+                    toast.success("Welcome to Tasty-Treat")
                     const { id, name, email, restaurantId, restaurantName } = result.data;
 
                     sessionStorage['id'] = id;
